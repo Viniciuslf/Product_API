@@ -56,3 +56,5 @@ Para rodar os testes, execute:
 ```bash
 mvn test
 ```
+![image](https://github.com/user-attachments/assets/cec622d2-0811-4a84-82d1-ab8e5c3bd00a)
+
