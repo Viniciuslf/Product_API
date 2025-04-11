@@ -56,5 +56,10 @@ Para rodar os testes, execute:
 ```bash
 mvn test
 ```
+## Diagrams
 ![image](https://github.com/user-attachments/assets/cec622d2-0811-4a84-82d1-ab8e5c3bd00a)
+
+## Modelagem de ameaças
+![security](https://github.com/user-attachments/assets/d0beec68-fe41-419c-8ae2-0ae000fb94de)
+
 
